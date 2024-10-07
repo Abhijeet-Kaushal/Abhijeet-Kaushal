@@ -24,6 +24,8 @@ I am a Senior Software Engineer (Full-stack) who is proficient in Node.js, Expre
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&logo=Redux)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python)
+![Go](https://img.shields.io/badge/-Go-000000?style=for-the-badge&logo=Go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-000000?style=for-the-badge&logo=postgreSQL)
 ![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon)
