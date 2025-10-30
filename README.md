@@ -1,11 +1,11 @@
 ### <h2> नमस्ते (Namaste) 🙏🏻  I'm Abhijeet Kaushal , welcome to my profile.
   </br>
 
-I am a Senior Software Engineer (Full-stack) who is proficient in Node.js, Express.js, React.js, Redux, SQL, AWS & exploring Cloud :cloud: :wink:
+I am a Senior Software Engineer (Full-stack) who is proficient in JavaScript, TypeScript, React.js, Node.js, Express.js, Redux, SQL, AWS & exploring Cloud :cloud: :wink:
 
 - 👀 I’m interested in Solving tough problems & make new softwares
 
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"> & <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 
 - 💞️ I’m looking to collaborate on Open Source projects & Web3
 
